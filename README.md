@@ -28,10 +28,10 @@ hgledon.sh -usb reset
 ```
 
 ## Instalation on OpenWRT
-- Copy file hgled & hgledon
+- Copy file ```hgled``` & ```hgledon```
 - Paste the two files into the folder usr/bin
 - and change the permission to 0755
-- and edit the files in the folder etc/ & file name rc.local
+- and edit the files in the folder etc/ & file name ```rc.local```
 - edit the rc.local file in and paste this text above exit 0
 ```sh
 sleep 20 && /usr/bin/hgled -r
