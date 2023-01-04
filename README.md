@@ -1,7 +1,5 @@
-# Led-HG680P
+# Led-HG680P / s905x-gpio
 Led Indicator Internet HG680P 
-
-# s905x-gpio
 GPIO controller for Amlogic S905X devices
 
 ## Instalation
